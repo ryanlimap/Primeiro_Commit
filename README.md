@@ -4,7 +4,7 @@
 
 # ⚠️ Atenção
 
-***Este documento foi criado por eu mesmo para facilitar meus commits, porém, eu não tenho ainda muito entendimento dos comandos então pode ser que eu adicione algo errado.***
+***Este documento foi criado por mim mesmo para facilitar meus commits, porém, eu não tenho ainda muito entendimento dos comandos então pode ser que eu adicione algo errado.***
 
 # 💻 Comandos
 
